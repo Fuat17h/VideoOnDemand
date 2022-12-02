@@ -1,0 +1,16 @@
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Database.deps.json
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Database.runtimeconfig.json
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Database.runtimeconfig.dev.json
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Database.dll
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Database.pdb
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Common.dll
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Common.pdb
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.csproj.AssemblyReference.cache
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.AssemblyInfoInputs.cache
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.AssemblyInfo.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.csproj.CoreCompileInputs.cache
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.csproj.CopyComplete
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.dll
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.pdb
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.genruntimeconfig.cache

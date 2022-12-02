@@ -1,0 +1,10 @@
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp3.1\VOD.Common.deps.json
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp3.1\VOD.Common.dll
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp3.1\VOD.Common.pdb
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.csproj.AssemblyReference.cache
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.AssemblyInfoInputs.cache
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.AssemblyInfo.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.csproj.CoreCompileInputs.cache
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.dll
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.pdb
