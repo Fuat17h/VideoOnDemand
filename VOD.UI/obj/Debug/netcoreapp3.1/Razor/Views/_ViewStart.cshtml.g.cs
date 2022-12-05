@@ -33,8 +33,22 @@ using VOD.Common.Entities;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\Views\_ViewImports.cshtml"
+using VOD.UI.Models.MembershipViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\Views\_ViewImports.cshtml"
+using VOD.Common.DTOModels.UI;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"65efbf48f8d69f1cb30a83f4dd24c505de28ad18", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e594abca3bd5e26aa2b1990355674cbfce007f78", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

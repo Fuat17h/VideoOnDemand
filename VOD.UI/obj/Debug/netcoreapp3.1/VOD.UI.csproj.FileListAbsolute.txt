@@ -182,3 +182,12 @@ C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp3.1\Microsof
 C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp3.1\Razor\Views\Membership\Dashboard.cshtml.g.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp3.1\Razor\Views\Membership\_CourseCardPartial.cshtml.g.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp3.1\Razor\Views\Membership\Course.cshtml.g.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp3.1\Razor\Views\Membership\_ModuleVideosPartial.cshtml.g.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp3.1\Razor\Views\Membership\_ModuleDownloadsPartial.cshtml.g.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp3.1\Razor\Views\Membership\_InstructorBioPartial.cshtml.g.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp3.1\Razor\Views\Membership\Video.cshtml.g.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp3.1\Razor\Views\Membership\_VideoPlayerPartial.cshtml.g.cs
+C:\Users\FUAD\source\repos\VideoOnDemand\VOD.UI\obj\Debug\netcoreapp3.1\Razor\Views\Membership\_VideoComingUpPartial.cshtml.g.cs
